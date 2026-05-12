@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "home": {
+    "hero_title": "The Essence of Luxury",
+    "hero_subtitle": "Discover the finest premium dates handpicked from the royal farms of Arabia. A taste of heritage, delivered to your door.",
+    "shop_now": "Shop Collection",
+    "discover_more": "Discover More",
+    "featured": "Featured Selection",
+    "view_all": "View All",
+    "why_us": "Our Heritage",
+    "why_us_desc": "From seed to harvest, we ensure only the finest dates reach your table. Grown with tradition, processed with modern excellence.",
+    "quality_title": "Premium Quality",
+    "quality_desc": "Carefully selected for perfect texture and sweetness.",
+    "organic_title": "100% Organic",
+    "organic_desc": "Grown naturally without artificial additives.",
+    "gift_title": "Luxury Gifting",
+    "gift_desc": "Elegant presentation for your most specials occasions.",
+    "testimonials": "What Our Clients Say"
+  },
+  "shop": {
+    "title": "Our Collection",
+    "filters": "Filters",
+    "sort": "Sort By",
+    "price_low_high": "Price: Low to High",
+    "price_high_low": "Price: High to Low",
+    "add_to_cart": "Add to Cart",
+    "out_of_stock": "Out of Stock",
+    "all_products": "All Products",
+    "premium": "Premium Dates",
+    "gift_boxes": "Gift Boxes",
+    "stuffed": "Stuffed Dates"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "checkout": "Proceed to Checkout",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "continue_shopping": "Continue Shopping"
+  },
+  "footer": {
+    "about": "Al-Bariq brings you the finest selection of luxury dates, perfect for every occasion.",
+    "links": "Quick Links",
+    "contact": "Contact Us",
+    "copyright": "© 2026 Al-Bariq Dates. All rights reserved."
+  },
+  "checkout": {
+    "title": "Checkout",
+    "shipping_details": "Shipping Details",
+    "payment_method": "Payment Method",
+    "order_summary": "Order Summary",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "address": "Street Address",
+    "city": "City",
+    "country": "Country",
+    "zip": "ZIP / Postal Code",
+    "card_number": "Card Number",
+    "expiry": "Expiry Date (MM/YY)",
+    "cvc": "CVC",
+    "place_order": "Place Order",
+    "back_to_cart": "Back to Cart",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "free": "Free",
+    "total": "Total",
+    "secure_checkout": "Secure Checkout"
+  }
+}
